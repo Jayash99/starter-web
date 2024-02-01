@@ -5,7 +5,7 @@ this is a simple website project
 
 ## Introduction
 
-This is the introduction
+This is the introduction to the example to show different parts of git repo and various commands using a web project.
 
 ## Purpose
 
