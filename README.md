@@ -9,11 +9,11 @@ This is the introduction to the example to show different parts of git repo and 
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos for learning git and github functionlaity
 
 ## Deplyment
 
-
+can be deployed on any file server
 
 ## How to contribute
 
