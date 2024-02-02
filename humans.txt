@@ -6,7 +6,7 @@
     <Jayash> -- <QA> -- <accidentalMech>
 
 # THANKS
-
+	Saying thanks to friends and family
     <name>
 
 # TECHNOLOGY COLOPHON
