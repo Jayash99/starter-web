@@ -4,7 +4,7 @@
 # TEAM
 
     <Jayash> -- <QA> -- <accidentalMech>
-
+	ranu		dev		no-twitterx
 # THANKS
 	Saying thanks to friends and family
     <name>
