@@ -18,3 +18,7 @@ can be deployed on any file server
 ## How to contribute
 
 Contribution guidelines
+
+## Copyright
+
+Adding copyright
