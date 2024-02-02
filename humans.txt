@@ -5,6 +5,7 @@
 
     <Jayash> -- <QA> -- <accidentalMech>
 	ranu		dev		no-twitterx
+	baniya		both	xxxxxxxxx
 # THANKS
 	Saying thanks to friends and family
     <name>
