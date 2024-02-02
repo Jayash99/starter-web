@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 this is a simple website project
 Adding line or rebasing example
-
+more changes from mydeature branch
 ## Introduction
 
 This is the introduction to the example to show different parts of git repo and various commands using a web project.
