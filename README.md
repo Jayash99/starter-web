@@ -23,4 +23,4 @@ please fork this repo and issue pull request
 
 ## Copyright
 
-all righhts reserved
+all righhts reserved for me and only me
