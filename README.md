@@ -18,6 +18,7 @@ can be deployed on any file server
 ## How to contribute
 
 Contribution guidelines
+please fork this repo and issue pull request
 
 ## Copyright
 
